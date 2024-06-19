@@ -1,0 +1,6 @@
+- mencantumkan tanggal produksi, expired dan ada penambahan stok baru dan lama juga harus ada tanggal nya di admin dan customer[X]
+- memasukkan bahan baku dan supplier di bagian admin[X]
+- bahan baku dapat jadi berapa pcs di bagian admin[X]
+- dapat mengcancel pesanan dan ada alasannya, serta dapat menolak dana menerima alas an tersebut[X]
+- return[X]
+- bisa melihat review produk dari customer dan dapat di seleksi pada bagian admin[X]
